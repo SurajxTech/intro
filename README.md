@@ -13,12 +13,12 @@ This is a simple introductory project to demonstrate a basic setup for a GitHub 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/surajchauhan/hello-world-project.git
+   git clone https://github.com/SurajxTech/intro.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd hello-world-project
+   cd intro
    ```
 
 3. Run the Python script:
