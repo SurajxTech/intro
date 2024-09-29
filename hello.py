@@ -8,7 +8,7 @@ import sys
 def clear_screen():
     os.system('cls' if os.name == 'nt' else 'clear')
 
-def matrix_effect(rows=20, columns=40, drop_speed=0.05, run_time=30, message="SURAJ CHAUHAN PROJECT OWNER"):
+def matrix_effect(rows=20, columns=40, drop_speed=0.05, run_time=30, message="@SurajxTech : SURAJ CHAUHAN"):
     start_time = time.time()
 
     while True:
